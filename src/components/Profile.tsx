@@ -3,12 +3,13 @@ import styles from '../styles/components/Profile.module.css'
 export function Profile() {
   return (
     <div className={styles.profileContainer}>
-      <img src="https://github.com/bobzera.png" alt="Joseph Oliveira"/>
+      <img src="https://github.com/bobzera.png" alt="Weslley Oliveira"/>
       <div>
-        <strong>Joseph Oliveira</strong>
+        <strong>Weslley Oliveira</strong>
+        
         <p>
           <img src="icons/level.svg" alt="Level"/>
-           Level 1
+          Level 1
         </p>
       </div>
     </div>
