@@ -12,6 +12,7 @@ export function Profile() {
         <strong>Weslley Oliveira</strong>
         
         <p>
+          
           <img src="icons/level.svg" alt="Level"/>
           Level {level}
         </p>
